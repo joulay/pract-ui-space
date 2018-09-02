@@ -5,6 +5,11 @@ body {
     background-size: cover;
 }
 
+header {
+    color: white;
+}
+
+
 .pretitle {
     color: orange;
     font-family: Arial;
