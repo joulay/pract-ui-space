@@ -5,9 +5,9 @@ body {
     background-size: cover;
 }
 
-header {
+#main {
     color: white;
-    font: 'Nunito', sans-serif;
+    font-family: 'Nunito';
 }
 
 
@@ -19,5 +19,5 @@ header {
 
 .title {
     color: white;
-    font-family: Arial, Helvetica, sans-serif;    
+    font-family: Arial;    
 }
