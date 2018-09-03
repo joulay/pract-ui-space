@@ -16,6 +16,9 @@ body {
 #main {
     color: white;
     font-size: 30px;
+    position: absolute;
+    left: 50px;
+    top: 40px;    
 }
 
 
@@ -39,10 +42,13 @@ body {
 
 a {
     text-decoration: none;
-    color: white;
     text-transform: uppercase;
 }
 
-li {
-    display: inline;
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
