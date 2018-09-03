@@ -39,6 +39,15 @@ body {
     font-family: Nunito;
 }
 
+button {
+    padding: 8px 17px;
+    background-color: orange;
+    border-radius: 5%;
+    color: white;
+    font-size: 15px;
+    border: 1px orange solid;
+}
+
 a {
     text-decoration: none;
     text-transform: uppercase;
