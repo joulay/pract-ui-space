@@ -22,7 +22,7 @@ header {
 #main {
     color: white;
     font-size: 30px;
-    left: 50px;
+    left: 100px;
     top: 40px;    
 }
 
@@ -40,7 +40,7 @@ header {
 
 #nav {
     list-style-type: none;
-    margin-right: 280px;
+    margin-right: 111px;
     padding: 0;
     font-family: Nunito;
 }
