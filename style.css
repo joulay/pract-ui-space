@@ -1,3 +1,10 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: inherit;
+}
+
+
 body {
     box-sizing: border-box;
     background-image: url("https://images.unsplash.com/photo-1445905595283-21f8ae8a33d2?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4a7a3c541e25c15f0049d2222aa1d538&auto=format&fit=crop&w=1352&q=80");
@@ -8,6 +15,7 @@ body {
 
 #main {
     color: white;
+    font-size: 30px;
 }
 
 
@@ -17,16 +25,23 @@ body {
 }
 
 .title {
-    color: white;    
+    color: white; 
+    font-size: 40px;   
 }
 
 
-#id {
+#nav {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
 
+a {
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+
 li {
-    list-style: none;
+    display: inline;
 }
