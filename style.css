@@ -90,8 +90,12 @@ li a {
     margin-top: 23px;
     margin-left: 10px;
 }
+#play {
+    font-size: 64px;
+}
 
 ion-icon {
-    font-size: 64px;
+    font-size: 32px;
     color: white;
 }
+
