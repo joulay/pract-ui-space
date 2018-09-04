@@ -80,3 +80,8 @@ li a {
 .vid {
     color: rgba(255, 255, 255, 0.726);
 }
+
+ion-icon {
+    font-size: 64px;
+    color: white;
+  }
