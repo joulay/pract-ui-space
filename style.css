@@ -77,6 +77,10 @@ li a {
     padding-left: 66px;
 }
 
+.video {
+    /* display: inline-block; */
+}
+
 .vid {
     color: rgba(255, 255, 255, 0.726);
 }
@@ -84,4 +88,4 @@ li a {
 ion-icon {
     font-size: 64px;
     color: white;
-  }
+}
