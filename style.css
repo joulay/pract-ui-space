@@ -43,6 +43,7 @@ header {
     margin-right: 70px;
     padding: 0;
     font-family: Nunito;
+
 }
 
 button {
@@ -66,10 +67,10 @@ li {
 
 li a {
     display: block;
-    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    color: rgba(255, 255, 255, 0.726);
 }
 
 .content {
@@ -97,16 +98,16 @@ li a {
 
 .social {
     float: right;
-    margin-right: 20%;
-    margin-top: 20%;        
+    margin-right: 10%;
+    margin-top: 21%;        
 }
 
 .s {
     margin-right:15px;
     padding: 3px;
-    border: 2px solid grey;
+    border: 2px solid #494f50;
     border-radius: 50%;
-    background-color: grey;
+    background-color: #494f50;
 }
 
 ion-icon {
