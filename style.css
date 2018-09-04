@@ -78,11 +78,17 @@ li a {
 }
 
 .video {
-    /* display: inline-block; */
+    float: left;
+}
+
+.video2 {
+    float:left;
 }
 
 .vid {
     color: rgba(255, 255, 255, 0.726);
+    margin-top: 23px;
+    margin-left: 10px;
 }
 
 ion-icon {
